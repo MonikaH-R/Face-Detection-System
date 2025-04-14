@@ -1,23 +1,23 @@
-# 🎯 Face Detection System – Real-Time Face Capture with Multi-Format Output
+# Face Detection System – Real-Time Face Capture with Multi-Format Output
 
 A real-time face detection tool built using Python and OpenCV. This application captures faces from your webcam and generates outputs in **grayscale**, **color**, and **ASCII art** formats. It also plays a **sound alert** every time a face is detected.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔍 **Real-time face detection** using Haar Cascade classifier
-- 🎨 Saves detected face in:
+-  **Real-time face detection** using Haar Cascade classifier
+-  Saves detected face in:
   - Grayscale (`.png`)
   - Color (`.png`)
   - ASCII Art (`.html`)
-- 🔊 **Sound notification** using Pygame when a face is detected
-- 📁 Automatically saves all output formats to structured folders
-- 🧠 Educational tool to understand computer vision basics
+-  **Sound notification** using Pygame when a face is detected
+- Automatically saves all output formats to structured folders
+- Educational tool to understand computer vision basics
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python**
 - **OpenCV** – For video capture and image processing
@@ -28,7 +28,7 @@ A real-time face detection tool built using Python and OpenCV. This application 
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 git clone https://github.com/yourusername/face-detection-system.git
