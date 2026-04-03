@@ -1,4 +1,4 @@
-# Face Detection System – Real-Time Face Capture with Multi-Format Output
+# Face Detection System – Real-Time Face Capture with Multi-Format Output#
 
 A real-time face detection tool built using Python and OpenCV. This application captures faces from your webcam and generates outputs in **grayscale**, **color**, and **ASCII art** formats. It also plays a **sound alert** every time a face is detected.
 
