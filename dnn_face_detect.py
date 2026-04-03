@@ -37,7 +37,7 @@ while True:
             cv2.rectangle(frame, (x1, y1), (x2, y2), (0, 255, 0), 2)
             face_detected = True
 
-    # Play sound once per face detection
+    # Play sound once per face detection #
     if face_detected and (time.time() - last_detection_time > cooldown):
         playsound("ding.mp3")  # Make sure you have this file in your folder
         last_detection_time = time.time()
