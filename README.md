@@ -2,8 +2,6 @@
 
 A real-time face detection tool built using Python and OpenCV. This application captures faces from your webcam and generates outputs in **grayscale**, **color**, and **ASCII art** formats. It also plays a **sound alert** every time a face is detected.
 
----
-
 ##  Features
 
 -  **Real-time face detection** using Haar Cascade classifier
@@ -15,8 +13,6 @@ A real-time face detection tool built using Python and OpenCV. This application 
 - Automatically saves all output formats to structured folders
 - Educational tool to understand computer vision basics
 
----
-
 ## Tech Stack
 
 - **Python**
@@ -26,7 +22,7 @@ A real-time face detection tool built using Python and OpenCV. This application 
 - **Pygame** – For audio alert
 - **Tkinter** (optional) – If you plan to add a GUI
 
----
+
 
 ## Installation
 
